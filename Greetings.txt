@@ -1,2 +1,2 @@
-echo "holaaaaaa mundo"
-echo "adioooos mundo"
+echo "hola mundo"
+echo "adios mundo"
